@@ -1,0 +1,78 @@
+*{
+   font-family: 'Crimson Pro', serif;
+}
+
+#landing{
+   background-image: url(./images/land.jpg);
+    background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+}
+
+#spacer{
+   height: 155px;
+}
+
+#aboutme{
+   background-image: url(./images/about.jpg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+}
+
+#tup{
+     background-image: url(./images/dashboard.png);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   height: 300px;
+
+}
+
+
+#banner{
+    background-color: #00B4D8;
+}
+
+h1 #nametag{
+   border-bottom: 2px solid;
+  padding-bottom: 5px;
+  border-bottom-color: blueviolet;
+  margin: 0 auto;
+  width: fit-content;
+}
+
+div .card{
+    display: inline-block;
+}
+
+#projects{
+   background-color: gray;
+}
+
+#street{
+   background-image: url(./images/edsa.jpg);
+    background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+}
+
+#map {
+   width: 100%;
+   display: block;
+   border: none;
+   height: 70vh;
+   border-radius: 10px;
+}
+
+div #bet{
+   height: 150px;
+}
+
+#iconic{
+   color: white;
+}
+
+#proj{
+   background-image: url(./images/proj.jpg);
+}
