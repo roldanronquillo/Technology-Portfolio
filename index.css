@@ -39,6 +39,10 @@
     background-color: #00B4D8;
 }
 
+#mel{
+   background-color: rgba(60, 60, 60, 0.5);
+}
+
 
 div .card{
     display: inline-block;
