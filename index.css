@@ -2,6 +2,11 @@
    font-family: 'Crimson Pro', serif;
 }
 
+#brand{
+   height: 45px;
+   width: 140px;
+}
+
 #landing{
    background-image: url(./images/land.jpg);
     background-size: cover;
@@ -34,13 +39,6 @@
     background-color: #00B4D8;
 }
 
-h1 #nametag{
-   border-bottom: 2px solid;
-  padding-bottom: 5px;
-  border-bottom-color: blueviolet;
-  margin: 0 auto;
-  width: fit-content;
-}
 
 div .card{
     display: inline-block;
